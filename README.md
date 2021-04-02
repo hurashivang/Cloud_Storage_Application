@@ -11,7 +11,7 @@ Using  cloud for storage - Firbase , Language - Java and Android Studio platform
 
 # Setup guide
 
- git clone https://github.com/jainishank733/Smart_Cloud_Storage.git
+ git clone https://github.com/hurashivang/Cloud_Storage_Application.git
 
  login on Firbase console
 
